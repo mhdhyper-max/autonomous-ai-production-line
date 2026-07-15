@@ -106,3 +106,11 @@ To transition this operational log into functional network topologies and softwa
 ===========================================================================================
                THE AUTONOMOUS AI PRODUCTION LINE BLUEPRINT IS LOCKED & APPROVED 🔒          
 ===========================================================================================
+## 📬 Contact & Advisory Inquiries
+
+For technical audits, architectural consulting, system design evaluations, or global advisory inquiries regarding **The Autonomous AI Production Line** framework, please reach out through the official channels below:
+
+* 📧 **Enterprise & Advisory Email:** `omega.20w.cortex@proton.me`
+* 💬 **Technical Discussions:** Please open a thread under the [GitHub Issues](https://github.com) tab for architecture verification queries.
+
+> ⚠️ **Note:** Due to a high volume of technical evaluations, please ensure your inquiry includes your organization's domain vertical and infrastructure constraints for efficient scoping.
