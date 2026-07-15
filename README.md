@@ -114,3 +114,12 @@ For technical audits, architectural consulting, system design evaluations, or gl
 * 💬 **Technical Discussions:** Please open a thread under the [GitHub Issues](https://github.com) tab for architecture verification queries.
 
 > ⚠️ **Note:** Due to a high volume of technical evaluations, please ensure your inquiry includes your organization's domain vertical and infrastructure constraints for efficient scoping.
+> 
+## ⚖️ Licensing & Intellectual Property Framework
+
+This architectural blueprint and its underlying conceptual workflow topology are published under a **Business Source License (BSL-inspired) Defensive Framework**. 
+
+* **Permitted Use:** Free and unrestricted evaluation, academic research, local simulation, and non-commercial development.
+* **Commercial Restrictions:** Production deployment, cloud routing execution, or integration into commercial hyperscale AI infrastructure requires formal licensing, continuous engineering consultation, or enterprise authorization from the author.
+
+*Any unauthorized reverse-engineering or integration of this multi-tenant isolation logic into commercial production data planes will be met with immediate legal and intellectual property challenges.*
